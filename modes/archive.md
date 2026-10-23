@@ -1,1 +1,34 @@
-IyBNb2RlOiBhcmNoaXZlIMK3IOW9kuaho+ayiea3gAoK6YCC55So5Zy65pmv77ya5Lu75Yqh5pS25bC+77yIQ09SRSDpmLbmrrUgNe+8ieOAguaKiiLlgLzlvpfnlZnkuIvnmoTkuJzopb8i5pS+5Yiw5q2j56Gu55qE5bGC77yMCuWFtuS9meeahOiuqeWug+i/h+WOu+OAguW9kuaho+eahOWOn+WIme+8muWugeWwkeWLv+a7peKAlOKAlOW9kuaho+S4jeaYr+ebrueahO+8jOWkjeeUqOaJjeaYr+OAggoKIyMg5LiJ5bGC5b2S5qGjCgp8IOWxgiB8IOWtmOS7gOS5iCB8IOWtmOWTqumHjCB8IOeUn+WRveWRqOacnyB8CnwtLS0tfC0tLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS18Cnwg6aG555uu5bGCIHwg5pyv6K+t6KGo77yIR0xPU1NBUlnvvInjgIHph43lpKflhrPnrZborrDlvZXvvIhBRFLvvInjgIHnuqblrpogfCDpobnnm67lhoUgYGRvY3MvYCB8IOmaj+mhueebriB8Cnwg5Lqk5o6l5bGCIHwg5Lya6K+d5Lqk5o6l5paH5qGj77yIaGFuZG9mZu+8iSB8IOmhueebruWGhSBgZG9jcy9oYW5kb2Zmcy9g77yI5LiN6KaB5a2Y57O757uf5Li05pe255uu5b2V77yM5Lya6KKr5riF55CG77yJIHwg5Yiw5LiL5qyh5o6l57utIHwKfCDkuKrkurrlsYIgfCDnlKjmiLfkuKrkurrlgY/lpb3jgIHmg6/kvovjgIHlj43lpI3lh7rnjrDnmoTlt6XkvZzmlrnlvI8gfCBBSSDlt6XlhbfnmoTplb/mnJ/orrDlv4YgLyDoh6rlrprkuYnmjIfku6QgfCDot6jpobnnm64gfAoKIyMg5aSN55uY5LiJ5Y+l6K+d77yI5q+P5Liq5Lu75Yqh57uT5p2f5b+F5YGa77yJCgoxLiDlgZrmiJDkuobku4DkuYjvvIjkuIDlj6XvvIzlj6/pqozor4HnmoTkuovlrp7vvInvvJsKMi4g5LiL5qyh5Y+v55u05o6l5aSN55So55qE5pa55rOV77yI5LiA5Y+l77yM5YW35L2T5Yiw5Yqo5L2c77yJ77ybCjMuIOi4qeS6huS7gOS5iOWdke+8iOS4gOWPpe+8jOmZhOinhOmBv+aWueW8j++8ieOAggoKIyMg6KeE5YiZCgotIOacr+ivreWGsueqgeW9k+Wcuuino+WGs++8muWQjOS4gOmhueebruWGheS4gOS4quivjeWPquiuuOS4gOS4quWQq+S5ie+8m+mavuS7pemAhui9rOeahOWGs+etlgogIOWGmeaIkOS4gOadoSBBRFLvvIjog4zmma8gLyDlhrPlrpogLyDlkI7mnpzvvInvvIzpgb/lhY3mnKrmnaXph43mlrDlkLXmnrbvvJsKLSDkuqTmjqXmlofmoaPlv4XlkKvvvJrlvZPliY3nirbmgIHjgIHkuIvkuIDmraXjgIHlu7rorq7liqDovb3nmoTmqKHlvI/miJbotYTmlpnigJTigJTorqnmlrDkvJror50KICDpm7bkuIrkuIvmlofmjqXnu63vvJsKLSDkuKrkurrlsYLlhpnlhaXopoHlhYvliLbvvJrlj6rlhpnlj43lpI3pqozor4HmnInmlYjnmoTlgY/lpb3vvIzkuI3lhpnkuIDmrKHmgKfkv6Hmga/vvJsKLSDlvZLmoaPliY3pl67kuIDlj6XvvJrkuInkuKrmnIjlkI7miJHov5jkvJrpnIDopoHlroPlkJfvvJ/kuI3kvJrvvIzlsLHkuI3lrZjjgIIKCiMjIOS4juaguOW/g+W8leaTjueahOWFs+ezuwrlr7nlupQgQ09SRSDpmLbmrrUgNeOAggoKIyMg5p2l5rqQCkFEUu+8iOaetuaehOWGs+etluiusOW9le+8ieWunui3tea6kOiHqiBNaWNoYWVsIE55Z2FyZOOAikRvY3VtZW50aW5nIEFyY2hpdGVjdHVyZQpEZWNpc2lvbnPjgIvvvJvkuInlsYLlvZLmoaPkuLrmnKzpobnnm67nu7zlkIjmj5DngrzvvIjor6bop4EgLi4vQ1JFRElUUy5tZO+8ieOAggo=
+# Mode: archive · 归档沉淀
+
+适用场景：任务收尾（CORE 阶段 5）。把"值得留下的东西"放到正确的层，
+其余的让它过去。归档的原则：宁少勿滥——归档不是目的，复用才是。
+
+## 三层归档
+
+| 层 | 存什么 | 存哪里 | 生命周期 |
+|----|--------|--------|----------|
+| 项目层 | 术语表（GLOSSARY）、重大决策记录（ADR）、约定 | 项目内 `docs/` | 随项目 |
+| 交接层 | 会话交接文档（handoff） | 项目内 `docs/handoffs/`（不要存系统临时目录，会被清理） | 到下次接续 |
+| 个人层 | 用户个人偏好、惯例、反复出现的工作方式 | AI 工具的长期记忆 / 自定义指令 | 跨项目 |
+
+## 复盘三句话（每个任务结束必做）
+
+1. 做成了什么（一句，可验证的事实）；
+2. 下次可直接复用的方法（一句，具体到动作）；
+3. 踩了什么坑（一句，附规避方式）。
+
+## 规则
+
+- 术语冲突当场解决：同一项目内一个词只许一个含义；难以逆转的决策
+  写成一条 ADR（背景 / 决定 / 后果），避免未来重新吵架；
+- 交接文档必含：当前状态、下一步、建议加载的模式或资料——让新会话
+  零上下文接续；
+- 个人层写入要克制：只写反复验证有效的偏好，不写一次性信息；
+- 归档前问一句：三个月后我还会需要它吗？不会，就不存。
+
+## 与核心引擎的关系
+对应 CORE 阶段 5。
+
+## 来源
+ADR（架构决策记录）实践源自 Michael Nygard《Documenting Architecture
+Decisions》；三层归档为本项目综合提炼（详见 ../CREDITS.md）。

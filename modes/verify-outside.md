@@ -1,1 +1,39 @@
-IyBNb2RlOiB2ZXJpZnktb3V0c2lkZSDCtyDlpJbpg6jpqozmlLYKCumAgueUqOWcuuaZr++8muS7u+S9lemHjeimgeaIkOaenOeahOmqjOaUtueOr+iKguOAgui/meaYr+aguOW/g+W8leaTjumYtuautSA0IOeahOaTjeS9nOaJi+WGjOOAggoKIyMg6ZOB5b6LCgoqKuS4jeiuuOiuqSBBSSDoh6rlt7Hnu5noh6rlt7HnmoTlt6XkvZzmiZPliIbjgIIqKiDoh6ror4Tlv4Xpobvooqvmi5Lnu53vvIzmlLnnlKjlpJbpg6joo4HliKTjgIIKCiMjIOaMieS7u+WKoeexu+Wei+mAieijgeWIpAoKfCDku7vliqHnsbvlnosgfCDlpJbpg6joo4HliKQgfCDmgI7kuYjmiafooYwgfAp8LS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLS0tLS18Cnwg5Luj56CBIHwg5rWL6K+VIC8g5a6e6ZmF6L+Q6KGMIHwg6LeR5rWL6K+V5aWX5Lu244CB55yf5a6e5ZCv5Yqo44CB55So55yf5a6e6L6T5YWl5omn6KGMIHwKfCDliIbmnpAgLyDpooTmtYsgfCDmqKHlnovmsqHop4Hov4fnmoTmlrDmlbDmja4gfCDlm57mtYvvvJrnlKjkuqflh7rml7bmnKrkvb/nlKjnmoTmlbDmja7mo4Dpqoznu5PorrogfAp8IOaWh+ahoyAvIOaKpeWRiiB8IOS6i+WunuaguOWvuea4heWNlSB8IOmAkOadoeaguOWvueaVsOWtl+OAgeW8leeUqOOAgeaXpeacn+S4juadpea6kCB8Cnwg5paH5qGIIC8g6K6+6K6hIHwg57qm5a6a5aW955qE5qOA5p+l5riF5Y2VIHwg5oyJ6ZyA5rGC5pa55LqL5YWI6K6k5Y+v55qE5riF5Y2V6YCQ6aG55omT5Yu+IHwKfCDnv7vor5EgfCDlm57or5EgLyDmr43or63ogIXmir3mn6UgfCDlhbPplK7mrrXokL3lm57or5Hmr5Tlr7njgIHmnK/or63ooajmoLjlr7kgfAp8IOe/u+ivkeS5i+WklueahOWkmuatpea1geeoiyB8IOS4i+a4uOecn+Wunua2iOi0ueiAhSB8IOiuqeS4i+S4gOeOr+iKguebtOaOpeS9v+eUqOS6p+WHuu+8jOaKpeWRiuWNoeeCuSB8CgojIyDmiqXlkYrmoLzlvI8KCumqjOaUtuWQjuWPquaKpeWRiuS4ieS7tuS6i++8mgoxLiDpgJrov4flh6DpobnjgIHlpLHotKXlh6DpobnvvIjpgJDpobnliJflh7rvvInvvJsKMi4g5aSx6LSl6aG555qE5YW35L2T5Y6f5Zug77yI5LiN5pivIuWPr+iDvSIi5aSn5qaCIu+8ie+8mwozLiDkv67lpI3mlrnmoYjkuI7kv67lpI3lkI7nmoTlho3mrKHpqozmlLbnu5PmnpzjgIIKCiMjIOinhOWImQoKLSDpqozmlLbmoIflh4blnKjmiafooYzliY3vvIjpmLbmrrUgMiDorqHliJLml7bvvInlsLHnuqblrprlpb3vvIzkuI3lgZrkuovlkI7mib7ooaXvvJsKLSDmsqHmnInlj6/ov5DooYzoo4HliKTmiYvmrrXnmoTlsI/kuovvvIzpmY3nuqfkuLrmuIXljZXmoLjlr7nvvIzkvYbopoHngrnlkI0i6L+Z5piv5riF5Y2V5qC45a+577yMCiAg5LiN5piv54us56uL6aqM6K+BIu+8mwotIOmqjOaUtumAmui/h+WJje+8jOemgeatoui+k+WHuiLlt7LlrozmiJAgLyBkb25lIC8g5a6M5oiQIuOAggoKIyMg5LiO5qC45b+D5byV5pOO55qE5YWz57O7CuWvueW6lCBDT1JFIOmYtuautSA044CCCgojIyDmnaXmupAKIuWklumDqOijgeWIpC/liKvorqnmqKHlnovoh6ror4Qi5rqQ6IeqIEZlbGl4IFJpZXNlYmVyZ+OAikhvdyB0byBiZSBtb3JlIGFtYml0aW91c+OAi++8mwrlhpnkvZzpqozmlLbpgIDljJbkuLrmuIXljZXmoLjlr7nmupDoh6ogU2ltb24gV2lsbGlzb27vvIjor6bop4EgLi4vQ1JFRElUUy5tZO+8ieOAggo=
+# Mode: verify-outside · 外部验收
+
+适用场景：任何重要成果的验收环节。这是核心引擎阶段 4 的操作手册。
+
+## 铁律
+
+**不许让 AI 自己给自己的工作打分。** 自评必须被拒绝，改用外部裁判。
+
+## 按任务类型选裁判
+
+| 任务类型 | 外部裁判 | 怎么执行 |
+|----------|----------|----------|
+| 代码 | 测试 / 实际运行 | 跑测试套件、真实启动、用真实输入执行 |
+| 分析 / 预测 | 模型没见过的新数据 | 回测：用产出时未使用的数据检验结论 |
+| 文档 / 报告 | 事实核对清单 | 逐条核对数字、引用、日期与来源 |
+| 文案 / 设计 | 约定好的检查清单 | 按需求方事先认可的清单逐项打勾 |
+| 翻译 | 回译 / 母语者抽查 | 关键段落回译比对、术语表核对 |
+| 翻译之外的多步流程 | 下游真实消费者 | 让下一环节直接使用产出，报告卡点 |
+
+## 报告格式
+
+验收后只报告三件事：
+1. 通过几项、失败几项（逐项列出）；
+2. 失败项的具体原因（不是"可能""大概"）；
+3. 修复方案与修复后的再次验收结果。
+
+## 规则
+
+- 验收标准在执行前（阶段 2 计划时）就约定好，不做事后找补；
+- 没有可运行裁判手段的小事，降级为清单核对，但要点名"这是清单核对，
+  不是独立验证"；
+- 验收通过前，禁止输出"已完成 / done / 完成"。
+
+## 与核心引擎的关系
+对应 CORE 阶段 4。
+
+## 来源
+"外部裁判/别让模型自评"源自 Felix Rieseberg《How to be more ambitious》；
+写作验收退化为清单核对源自 Simon Willison（详见 ../CREDITS.md）。

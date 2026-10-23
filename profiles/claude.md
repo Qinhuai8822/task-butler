@@ -1,1 +1,41 @@
-IyBQcm9maWxlOiBjbGF1ZGUgwrcgQ2xhdWRlIC8gQ2xhdWRlIENvZGUKCuS4pOenjemDqOe9suaWueW8j+S7u+mAieWFtuS4gOOAggoKIyMg5pa55byPIEHvvJrpobnnm67nuqcgQ0xBVURFLm1k77yIQ2xhdWRlIENvZGUg5Zy65pmv77yJCgrmiorkuIvpnaLlhoXlrrnmlL7ov5vpobnnm67moLnnm67lvZXnmoQgYENMQVVERS5tZGDvvJoKCi0tLS0tLS0tIOS7peS4i+S4uuWGmeWFpeWGheWuuSAtLS0tLS0tLQoKIyBUYXNrIEJ1dGxlcu+8iOS7u+WKoeeuoeWutu+8iQoK5pys6aG555uu55qE5omA5pyJ5bel5L2c6YG15b6qIHRhc2stYnV0bGVyIOaWueazleiuuu+8iOWujOaVtOW8leaTjuingQpodHRwczovL2dpdGh1Yi5jb20vPHlvdXItdXNlcm5hbWU+L3Rhc2stYnV0bGVyIOeahCBDT1JFLm1k77yJ77yaCgoxLiDnm67moIfmvoTmuIXvvJrlhYjmjqjmlq0i55uu5qCH6IOM5ZCO55qE55uu5qCHIu+8jOacieabtOWlveino+azleWFiOaPkOWHuuOAggoyLiDmlrnmoYjljovmtYvvvJrph43opoHmlrnmoYjlhYjlgZrorr7orqHmoJHmi7fpl67vvIhtb2Rlcy9wbGFuLWdyaWxsLm1k77yJ77yMCiAgIOS6i+WunuiHquW3seafpeOAgeWGs+etlumXrueUqOaIt+OAgeavj+mimOmZhOaOqOiNkOetlOahiOOAggozLiDorqHliJLlhYjooYzvvJo+MTUg5YiG6ZKf5Lu75Yqh5YWI57uZ566A55+t6K6h5YiS77yI5YGa5LuA5LmIL+mhuuW6jy/lpoLkvZXpqozmlLbvvInjgIIKNC4g5omn6KGM5bC65bqm77ya6buY6K6k5pyA5bCP5pS55Yqo77yb55So5oi36KaB5rGC5Yqg56CB5oiW5Lu75Yqh5bGe6YeN6KaB5oiQ5p6c5pe277yMCiAgIOWNh+e6p+S4uuS4k+WutuaWueazlSArIOe6oumYn+inhuinkuOAggo1LiDlpJbpg6jpqozmlLbvvJrmsLjkuI3oh6ror4TvvIhtb2Rlcy92ZXJpZnktb3V0c2lkZS5tZO+8ieKAlOKAlOS7o+eggei3kea1i+ivleOAgQogICDlhoXlrrnlr7nmuIXljZXjgIHpooTmtYvlm57mtYvmlrDmlbDmja7vvJvpgJrov4fliY3kuI3or7Qi5a6M5oiQIuOAggo2LiDlpI3nm5jmsonmt4DvvJrnu5PmnZ/kuInlj6Xor53lpI3nm5jvvIjmiJDmnpwv5Y+v5aSN55So5pa55rOVL+Wdke+8ie+8mwogICDmnK/or63lhaUgR0xPU1NBUlkubWTvvIzph43lpKflhrPnrZblhpkgQURSIOWIsCBkb2NzL2Fkci/vvIwKICAg5Lqk5o6l5paH5qGj5a2YIGRvY3MvaGFuZG9mZnMv77yI5LiN6KaB5a2Y57O757uf5Li05pe255uu5b2V77yJ44CCCgrkv64gYnVn77ya5YWI5YaZ6IO95aSN546w55qE5rWL6K+V5YaN5L+u77yIbW9kZXMvZXhlYy10ZGQubWTvvInjgIIK6ZW/5rWB56iLL+iHquWKqOWMluS7u+WKoe+8muWksei0peWFiOiviuaWreOAgeeOr+Wig+exu+Wksei0peiHquWKqOmAgOmBv+mHjeivleOAgQrov57nu60gMyDmrKHlpLHotKXnhpTmlq3miqXlkYrvvIhtb2Rlcy9leGVjLWhlYWwubWTvvInjgIIK5YaZ5L2c57G75Lu75Yqh77yaQUkg5Y+q5YGa57yW6L6R5qCH6K6w6Zeu6aKY77yM5LiN5Luj56yU44CB5LiN6byT5Yqx77yIbW9kZXMvd3JpdGUtZWRpdC5tZO+8ieOAggoK5LqL5a6e6Ieq5bex5p+l77yM5Yaz562W5omN6Zeu55So5oi344CC55So5oi35oyH5Luk5LyY5YWI5LqO5pys6KeE5YiZ77yI6aG75o+Q6YaS77yJ44CCCgotLS0tLS0tLSDlhpnlhaXlhoXlrrnliLDmraTkuLrmraIgLS0tLS0tLS0KCiMjIOaWueW8jyBC77ya54us56uLIFNraWxsIOebruW9lQoK5oqK5pW05LiqIHRhc2stYnV0bGVyIOS7k+W6k+WFi+mahuWIsOacrOacuu+8jOWcqCBDbGF1ZGUgQ29kZSDkvJror53kuK3or7QKIuaMieeFpyA8dGFzay1idXRsZXIg6Lev5b6EPi9DT1JFLm1kIOeahOW3peS9nOaWueW8j+aJp+ihjOS7u+WKoSLvvIwK5oiW5oqKIENPUkUubWQg5LiOIG1vZGVzLyDlvJXnlKjov5vkvaDnmoQgc2tpbGwg57O757uf44CCCg==
+# Profile: claude · Claude / Claude Code
+
+两种部署方式任选其一。
+
+## 方式 A：项目级 CLAUDE.md（Claude Code 场景）
+
+把下面内容放进项目根目录的 `CLAUDE.md`：
+
+-------- 以下为写入内容 --------
+
+# Task Butler（任务管家）
+
+本项目的所有工作遵循 task-butler 方法论（完整引擎见
+https://github.com/<your-username>/task-butler 的 CORE.md）：
+
+1. 目标澄清：先推断"目标背后的目标"，有更好解法先提出。
+2. 方案压测：重要方案先做设计树拷问（modes/plan-grill.md），
+   事实自己查、决策问用户、每题附推荐答案。
+3. 计划先行：>15 分钟任务先给简短计划（做什么/顺序/如何验收）。
+4. 执行尺度：默认最小改动；用户要求加码或任务属重要成果时，
+   升级为专家方法 + 红队视角。
+5. 外部验收：永不自评（modes/verify-outside.md）——代码跑测试、
+   内容对清单、预测回测新数据；通过前不说"完成"。
+6. 复盘沉淀：结束三句话复盘（成果/可复用方法/坑）；
+   术语入 GLOSSARY.md，重大决策写 ADR 到 docs/adr/，
+   交接文档存 docs/handoffs/（不要存系统临时目录）。
+
+修 bug：先写能复现的测试再修（modes/exec-tdd.md）。
+长流程/自动化任务：失败先诊断、环境类失败自动退避重试、
+连续 3 次失败熔断报告（modes/exec-heal.md）。
+写作类任务：AI 只做编辑标记问题，不代笔、不鼓励（modes/write-edit.md）。
+
+事实自己查，决策才问用户。用户指令优先于本规则（须提醒）。
+
+-------- 写入内容到此为止 --------
+
+## 方式 B：独立 Skill 目录
+
+把整个 task-butler 仓库克隆到本机，在 Claude Code 会话中说
+"按照 <task-butler 路径>/CORE.md 的工作方式执行任务"，
+或把 CORE.md 与 modes/ 引用进你的 skill 系统。

@@ -1,1 +1,108 @@
-IyBUYXNrIEJ1dGxlciBkZXBsb3kgc2NyaXB0IChXaW5kb3dzIFBvd2VyU2hlbGwpCiMgVXNhZ2U6CiMgICAuXGRlcGxveS5wczEgICAgICAgICAgICAgICAgKGludGVyYWN0aXZlIG1lbnUpCiMgICAuXGRlcGxveS5wczEgLVRhcmdldCBjbGF1ZGUgWy1QYXRoIC5dCiMgICAuXGRlcGxveS5wczEgLVRhcmdldCBhZ2VudHMgWy1QYXRoIC5dCiMgICAuXGRlcGxveS5wczEgLVRhcmdldCBjaGF0Z3B0ICAgICAgICAoY29waWVzIHByb2ZpbGUgdG8gY2xpcGJvYXJkKQojICAgLlxkZXBsb3kucHMxIC1UYXJnZXQgZ2VuZXJpYyAtUGF0aCA8ZmlsZT4KIyAgIC5cZGVwbG95LnBzMSAtVGFyZ2V0IHVuaW5zdGFsbCAtUGF0aCA8ZmlsZS13aXRoLWJsb2NrPgojIENvbXBhdGlibGUgd2l0aCBXaW5kb3dzIFBvd2VyU2hlbGwgNS4xKwoKcGFyYW0oCiAgICBbc3RyaW5nXSRUYXJnZXQgPSAiIiwKICAgIFtzdHJpbmddJFBhdGggPSAiIgopCgokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gIlN0b3AiCiRyb290ID0gU3BsaXQtUGF0aCAtUGFyZW50ICRQU1NjcmlwdFJvb3QKJEJFR0lOID0gIiMgLS0tLSB0YXNrLWJ1dGxlciBCRUdJTiAtLS0tIgokRU5EICAgPSAiIyAtLS0tIHRhc2stYnV0bGVyIEVORCAtLS0tIgoKZnVuY3Rpb24gR2V0LUJsb2NrKFtzdHJpbmddJHByb2ZpbGVGaWxlKSB7CiAgICAjIGNvbnRlbnQgYmV0d2VlbiB0aGUgTEFTVCBUV08gIi0tLS0tLS0tIiBtYXJrZXIgbGluZXMKICAgICMgKHdvcmtzIGZvciBzaW5nbGUtYmxvY2sgcHJvZmlsZXMgYW5kIGZvciBjaGF0Z3B0J3MgdHdvLWJveCBwcm9maWxlLAogICAgIyAgd2hlcmUgdGhlIGJsb2NrIHdlIHdhbnQgdG8gcGFzdGUgaXMgdGhlIGxhc3Qgb25lKQogICAgJGxpbmVzID0gR2V0LUNvbnRlbnQgJHByb2ZpbGVGaWxlIC1FbmNvZGluZyBVVEY4CiAgICAkbWFya3MgPSBAKCRsaW5lcyB8IFNlbGVjdC1TdHJpbmcgLVNpbXBsZU1hdGNoICItLS0tLS0tLSIgfCBGb3JFYWNoLU9iamVjdCB7ICRfLkxpbmVOdW1iZXIgfSkKICAgIGlmICgkbWFya3MuQ291bnQgLWx0IDIpIHsgdGhyb3cgIlByb2ZpbGUgJHByb2ZpbGVGaWxlIGhhcyBubyBjb250ZW50IGJsb2NrLiIgfQogICAgJGZpcnN0ID0gJG1hcmtzWy0yXTsgJGxhc3QgPSAkbWFya3NbLTFdCiAgICByZXR1cm4gKCRsaW5lc1soJGZpcnN0KS4uKCRsYXN0IC0gMildIC1qb2luICJgbiIpCn0KCmZ1bmN0aW9uIFVwZGF0ZS1GaWxlKFtzdHJpbmddJGZpbGUsIFtzdHJpbmddJGJsb2NrKSB7CiAgICAkZGlyID0gU3BsaXQtUGF0aCAtUGFyZW50ICRmaWxlCiAgICBpZiAoJGRpciAtYW5kIC1ub3QgKFRlc3QtUGF0aCAkZGlyKSkgeyBOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1QYXRoICRkaXIgfCBPdXQtTnVsbCB9CiAgICAkZXhpc3RpbmcgPSAiIgogICAgaWYgKFRlc3QtUGF0aCAkZmlsZSkgeyAkZXhpc3RpbmcgPSBHZXQtQ29udGVudCAkZmlsZSAtUmF3IC1FbmNvZGluZyBVVEY4IH0KICAgICRibG9ja0Z1bGwgPSAiJEJFR0lOYG4kYmxvY2tgbiRFTkQiCiAgICBpZiAoJGV4aXN0aW5nIC1tYXRjaCBbcmVnZXhdOjpFc2NhcGUoJEJFR0lOKSkgewogICAgICAgICMgcmVwbGFjZSBleGlzdGluZyBibG9jawogICAgICAgICRwYXR0ZXJuID0gIig/cylcJChbcmVnZXhdOjpFc2NhcGUoJEJFR0lOKSkuKj8kKCBbcmVnZXhdOjpFc2NhcGUoJEVORCkgKSIKICAgICAgICAkbmV3ID0gJGV4aXN0aW5nIC1yZXBsYWNlICRwYXR0ZXJuLCAkYmxvY2tGdWxsCiAgICAgICAgU2V0LUNvbnRlbnQgJGZpbGUgJG5ldyAtRW5jb2RpbmcgVVRGOAogICAgICAgIFdyaXRlLUhvc3QgIlVwZGF0ZWQgdGFzay1idXRsZXIgYmxvY2sgaW46ICRmaWxlIgogICAgfSBlbHNlIHsKICAgICAgICAkc2VwID0gIiIKICAgICAgICBpZiAoJGV4aXN0aW5nLlRyaW0oKS5MZW5ndGggLWd0IDApIHsgJHNlcCA9ICJgbmBuIiB9CiAgICAgICAgU2V0LUNvbnRlbnQgJGZpbGUgKCRleGlzdGluZy5UcmltRW5kKCkgKyAkc2VwICsgJGJsb2NrRnVsbCArICJgbiIpIC1FbmNvZGluZyBVVEY4CiAgICAgICAgV3JpdGUtSG9zdCAiQXBwZW5kZWQgdGFzay1idXRsZXIgYmxvY2sgdG86ICRmaWxlIgogICAgfQp9CgpmdW5jdGlvbiBSZW1vdmUtQmxvY2soW3N0cmluZ10kZmlsZSkgewogICAgaWYgKC1ub3QgKFRlc3QtUGF0aCAkZmlsZSkpIHsgV3JpdGUtSG9zdCAiRmlsZSBub3QgZm91bmQ6ICRmaWxlIjsgcmV0dXJuIH0KICAgICRyYXcgPSBHZXQtQ29udGVudCAkZmlsZSAtUmF3IC1FbmNvZGluZyBVVEY4CiAgICAkcGF0dGVybiA9ICIoP3MpXHMqJChbcmVnZXhdOjpFc2NhcGUoJEJFR0lOKSkuKj8kKFtyZWdleF06OkVzY2FwZSgkRU5EKSkiCiAgICAkbmV3ID0gJHJhdyAtcmVwbGFjZSAkcGF0dGVybiwgIiIKICAgIFNldC1Db250ZW50ICRmaWxlICRuZXcgLUVuY29kaW5nIFVURjgKICAgIFdyaXRlLUhvc3QgIlJlbW92ZWQgdGFzay1idXRsZXIgYmxvY2sgZnJvbTogJGZpbGUiCn0KCmlmICgkVGFyZ2V0IC1lcSAiIikgewogICAgV3JpdGUtSG9zdCAiVGFzayBCdXRsZXIgZGVwbG95IC0gY2hvb3NlIGEgdGFyZ2V0OiIKICAgIFdyaXRlLUhvc3QgIiAgMSkgY2xhdWRlICAgIC0gYXBwZW5kIGJsb2NrIHRvIENMQVVERS5tZCAocHJvamVjdCBvciB+XC5jbGF1ZGVcQ0xBVURFLm1kKSIKICAgIFdyaXRlLUhvc3QgIiAgMikgYWdlbnRzICAgIC0gYXBwZW5kIGJsb2NrIHRvIEFHRU5UUy5tZCAoQ3Vyc29yL0NvZGV4L0NsaW5lL0dlbWluaSBDTEkpIgogICAgV3JpdGUtSG9zdCAiICAzKSBjaGF0Z3B0ICAgLSBjb3B5IEN1c3RvbSBJbnN0cnVjdGlvbnMgdG8gY2xpcGJvYXJkIgogICAgV3JpdGUtSG9zdCAiICA0KSBnZW5lcmljICAgLSBhcHBlbmQgYmxvY2sgdG8gYSBmaWxlIHlvdSBzcGVjaWZ5IgogICAgV3JpdGUtSG9zdCAiICA1KSB1bmluc3RhbGwgLSByZW1vdmUgYmxvY2sgZnJvbSBhIGZpbGUgeW91IHNwZWNpZnkiCiAgICAkY2hvaWNlID0gUmVhZC1Ib3N0ICJTZWxlY3QgMS01IgogICAgc3dpdGNoICgkY2hvaWNlKSB7CiAgICAgICAgIjEiIHsgJFRhcmdldCA9ICJjbGF1ZGUiIH0KICAgICAgICAiMiIgeyAkVGFyZ2V0ID0gImFnZW50cyIgfQogICAgICAgICIzIiB7ICRUYXJnZXQgPSAiY2hhdGdwdCIgfQogICAgICAgICI0IiB7ICRUYXJnZXQgPSAiZ2VuZXJpYyIgfQogICAgICAgICI1IiB7ICRUYXJnZXQgPSAidW5pbnN0YWxsIiB9CiAgICAgICAgZGVmYXVsdCB7IHRocm93ICJJbnZhbGlkIGNob2ljZS4iIH0KICAgIH0KfQoKc3dpdGNoICgkVGFyZ2V0KSB7CiAgICAiY2xhdWRlIiB7CiAgICAgICAgJGZpbGUgPSBpZiAoJFBhdGggLW5lICIiKSB7ICRQYXRoIH0gZWxzZSB7IEpvaW4tUGF0aCAoR2V0LUxvY2F0aW9uKSAiQ0xBVURFLm1kIiB9CiAgICAgICAgVXBkYXRlLUZpbGUgJGZpbGUgKEdldC1CbG9jayAoSm9pbi1QYXRoICRyb290ICJwcm9maWxlc1xjbGF1ZGUubWQiKSkKICAgIH0KICAgICJhZ2VudHMiIHsKICAgICAgICAkZmlsZSA9IGlmICgkUGF0aCAtbmUgIiIpIHsgJFBhdGggfSBlbHNlIHsgSm9pbi1QYXRoIChHZXQtTG9jYXRpb24pICJBR0VOVFMubWQiIH0KICAgICAgICBVcGRhdGUtRmlsZSAkZmlsZSAoR2V0LUJsb2NrIChKb2luLVBhdGggJHJvb3QgInByb2ZpbGVzXGNsaS1hZ2VudHMubWQiKSkKICAgIH0KICAgICJjaGF0Z3B0IiB7CiAgICAgICAgJHByb2ZpbGUgPSBHZXQtQ29udGVudCAoSm9pbi1QYXRoICRyb290ICJwcm9maWxlc1xjaGF0Z3B0Lm1kIikgLVJhdyAtRW5jb2RpbmcgVVRGOAogICAgICAgICRibG9jayA9IEdldC1CbG9jayAoSm9pbi1QYXRoICRyb290ICJwcm9maWxlc1xjaGF0Z3B0Lm1kIikKICAgICAgICBTZXQtQ2xpcGJvYXJkIC1WYWx1ZSAkYmxvY2sKICAgICAgICBXcml0ZS1Ib3N0ICJCb3gtMiBjb250ZW50IGNvcGllZCB0byBjbGlwYm9hcmQuIgogICAgICAgIFdyaXRlLUhvc3QgIk9wZW4gQ2hhdEdQVCBTZXR0aW5ncyA+IEN1c3RvbWl6YXRpb24gPiBDdXN0b20gSW5zdHJ1Y3Rpb25zLCIKICAgICAgICBXcml0ZS1Ib3N0ICJwYXN0ZSBpbnRvIHRoZSAnSG93IHdvdWxkIHlvdSBsaWtlIENoYXRHUFQgdG8gcmVzcG9uZD8nIGJveC4iCiAgICAgICAgV3JpdGUtSG9zdCAiKEJveC0xIHRleHQgaXMgaW4gcHJvZmlsZXMvY2hhdGdwdC5tZCkiCiAgICB9CiAgICAiZ2VuZXJpYyIgewogICAgICAgIGlmICgkUGF0aCAtZXEgIiIpIHsgJFBhdGggPSBSZWFkLUhvc3QgIlRhcmdldCBmaWxlIHBhdGgiIH0KICAgICAgICBVcGRhdGUtRmlsZSAkUGF0aCAoR2V0LUJsb2NrIChKb2luLVBhdGggJHJvb3QgInByb2ZpbGVzXGdlbmVyaWMubWQiKSkKICAgIH0KICAgICJ1bmluc3RhbGwiIHsKICAgICAgICBpZiAoJFBhdGggLWVxICIiKSB7ICRQYXRoID0gUmVhZC1Ib3N0ICJGaWxlIHBhdGggdG8gcmVtb3ZlIGJsb2NrIGZyb20iIH0KICAgICAgICBSZW1vdmUtQmxvY2sgJFBhdGgKICAgIH0KICAgIGRlZmF1bHQgeyB0aHJvdyAiVW5rbm93biB0YXJnZXQ6ICRUYXJnZXQgKHVzZSBjbGF1ZGV8YWdlbnRzfGNoYXRncHR8Z2VuZXJpY3x1bmluc3RhbGwpIiB9Cn0KCldyaXRlLUhvc3QgIkRvbmUuIgo=
+# Task Butler deploy script (Windows PowerShell)
+# Usage:
+#   .\deploy.ps1                (interactive menu)
+#   .\deploy.ps1 -Target claude [-Path .]
+#   .\deploy.ps1 -Target agents [-Path .]
+#   .\deploy.ps1 -Target chatgpt        (copies profile to clipboard)
+#   .\deploy.ps1 -Target generic -Path <file>
+#   .\deploy.ps1 -Target uninstall -Path <file-with-block>
+# Compatible with Windows PowerShell 5.1+
+
+param(
+    [string]$Target = "",
+    [string]$Path = ""
+)
+
+$ErrorActionPreference = "Stop"
+$root = Split-Path -Parent $PSScriptRoot
+$BEGIN = "# ---- task-butler BEGIN ----"
+$END   = "# ---- task-butler END ----"
+
+function Get-Block([string]$profileFile) {
+    # content between the LAST TWO "--------" marker lines
+    # (works for single-block profiles and for chatgpt's two-box profile,
+    #  where the block we want to paste is the last one)
+    $lines = Get-Content $profileFile -Encoding UTF8
+    $marks = @($lines | Select-String -SimpleMatch "--------" | ForEach-Object { $_.LineNumber })
+    if ($marks.Count -lt 2) { throw "Profile $profileFile has no content block." }
+    $first = $marks[-2]; $last = $marks[-1]
+    return ($lines[($first)..($last - 2)] -join "`n")
+}
+
+function Update-File([string]$file, [string]$block) {
+    $dir = Split-Path -Parent $file
+    if ($dir -and -not (Test-Path $dir)) { New-Item -ItemType Directory -Path $dir | Out-Null }
+    $existing = ""
+    if (Test-Path $file) { $existing = Get-Content $file -Raw -Encoding UTF8 }
+    $blockFull = "$BEGIN`n$block`n$END"
+    if ($existing -match [regex]::Escape($BEGIN)) {
+        # replace existing block
+        $pattern = "(?s)\$([regex]::Escape($BEGIN)).*?$( [regex]::Escape($END) )"
+        $new = $existing -replace $pattern, $blockFull
+        Set-Content $file $new -Encoding UTF8
+        Write-Host "Updated task-butler block in: $file"
+    } else {
+        $sep = ""
+        if ($existing.Trim().Length -gt 0) { $sep = "`n`n" }
+        Set-Content $file ($existing.TrimEnd() + $sep + $blockFull + "`n") -Encoding UTF8
+        Write-Host "Appended task-butler block to: $file"
+    }
+}
+
+function Remove-Block([string]$file) {
+    if (-not (Test-Path $file)) { Write-Host "File not found: $file"; return }
+    $raw = Get-Content $file -Raw -Encoding UTF8
+    $pattern = "(?s)\s*$([regex]::Escape($BEGIN)).*?$([regex]::Escape($END))"
+    $new = $raw -replace $pattern, ""
+    Set-Content $file $new -Encoding UTF8
+    Write-Host "Removed task-butler block from: $file"
+}
+
+if ($Target -eq "") {
+    Write-Host "Task Butler deploy - choose a target:"
+    Write-Host "  1) claude    - append block to CLAUDE.md (project or ~\.claude\CLAUDE.md)"
+    Write-Host "  2) agents    - append block to AGENTS.md (Cursor/Codex/Cline/Gemini CLI)"
+    Write-Host "  3) chatgpt   - copy Custom Instructions to clipboard"
+    Write-Host "  4) generic   - append block to a file you specify"
+    Write-Host "  5) uninstall - remove block from a file you specify"
+    $choice = Read-Host "Select 1-5"
+    switch ($choice) {
+        "1" { $Target = "claude" }
+        "2" { $Target = "agents" }
+        "3" { $Target = "chatgpt" }
+        "4" { $Target = "generic" }
+        "5" { $Target = "uninstall" }
+        default { throw "Invalid choice." }
+    }
+}
+
+switch ($Target) {
+    "claude" {
+        $file = if ($Path -ne "") { $Path } else { Join-Path (Get-Location) "CLAUDE.md" }
+        Update-File $file (Get-Block (Join-Path $root "profiles\claude.md"))
+    }
+    "agents" {
+        $file = if ($Path -ne "") { $Path } else { Join-Path (Get-Location) "AGENTS.md" }
+        Update-File $file (Get-Block (Join-Path $root "profiles\cli-agents.md"))
+    }
+    "chatgpt" {
+        $profile = Get-Content (Join-Path $root "profiles\chatgpt.md") -Raw -Encoding UTF8
+        $block = Get-Block (Join-Path $root "profiles\chatgpt.md")
+        Set-Clipboard -Value $block
+        Write-Host "Box-2 content copied to clipboard."
+        Write-Host "Open ChatGPT Settings > Customization > Custom Instructions,"
+        Write-Host "paste into the 'How would you like ChatGPT to respond?' box."
+        Write-Host "(Box-1 text is in profiles/chatgpt.md)"
+    }
+    "generic" {
+        if ($Path -eq "") { $Path = Read-Host "Target file path" }
+        Update-File $Path (Get-Block (Join-Path $root "profiles\generic.md"))
+    }
+    "uninstall" {
+        if ($Path -eq "") { $Path = Read-Host "File path to remove block from" }
+        Remove-Block $Path
+    }
+    default { throw "Unknown target: $Target (use claude|agents|chatgpt|generic|uninstall)" }
+}
+
+Write-Host "Done."

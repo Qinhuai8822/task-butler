@@ -1,1 +1,4 @@
-IyBLZWVwIHNoZWxsIHNjcmlwdHMgTEYgc28gdGhleSBydW4gb24gbWFjT1MvTGludXggYWZ0ZXIgY2xvbmUgb24gV2luZG93cwoqLnNoIHRleHQgZW9sPWxmCioucHMxIHRleHQgZW9sPWNybGYKKi5tZCB0ZXh0Cg==
+# Keep shell scripts LF so they run on macOS/Linux after clone on Windows
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.md text

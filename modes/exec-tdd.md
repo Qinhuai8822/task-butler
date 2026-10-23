@@ -1,1 +1,26 @@
-IyBNb2RlOiBleGVjLXRkZCDCtyDmtYvor5XpqbHliqjmiafooYwKCumAgueUqOWcuuaZr++8muWGmeS7o+eggeOAgeaUueS7o+eggeOAgeS/riBidWfjgIHku7vkvZUi57uT5p6c5Y+v5Lul6KKr6Ieq5Yqo5Yik5a6a5a+56ZSZIueahOS7u+WKoeOAggoKIyMg5b6q546vCgrnuqIg4oaSIOe7vyDihpIg6YeN5p6E77yaCjEuIOWFiOWGmeS4gOS4quS8muWksei0peeahOa1i+ivle+8jOeUqOWug+WumuS5iSLku4DkuYjnrpflrozmiJAi77ybCjIuIOeUqOacgOeugOWNleeahOWunueOsOiuqea1i+ivlemAmui/h++8mwozLiDlnKjmtYvor5Xkv53miqTkuIvph43mnoTvvIzmtYvor5Xlp4vnu4jlhajnu7/jgIIKCiMjIOinhOWImQoKLSAqKuWFiOe6puWumua1i+ivleaOpee8nSoq77ya5Yqo56yU5YmN5YWI5YaZ5LiLIuS7juWTquS4quWFrOW8gOaOpeWPo+inguWvn+ihjOS4uiLvvIwKICDkuI7nlKjmiLfnoa7orqTlkI7lho3lhpnmtYvor5XjgILkuI3mtYvlhoXpg6jlrp7njrDnu4boioLjgIIKLSDlpb3nmoTmtYvor5Xor7votbfmnaXlg4/op4TmoLzor7TmmI7vvIgi55So5oi35Y+v5Lul55So5pyJ5pWI6LSt54mp6L2m57uT6LSmIu+8ie+8jAogIOmHjeaehOWQjuS+neeEtuaIkOeri+OAggotIOS/riBidWcg5YWI5YaZ6IO95aSN546wIGJ1ZyDnmoTmtYvor5XvvIzlho3mlLnliLDmtYvor5XpgJrov4figJTigJTkuI3lhYHorrgi55yL6LW35p2l5L+u5aW95LqGIuOAggotIOa1i+ivleacrOi6q+WAvOW+l+S/neeVme+8muWug+WwseaYr+S7u+WKoeeahOWklumDqOmqjOaUtuagh+WHhu+8iOihlOaOpemYtuautSA077yJ44CCCgojIyDkuI7moLjlv4PlvJXmk47nmoTlhbPns7sK5a+55bqUIENPUkUg6Zi25q61IDPvvIjmiafooYzvvIkrIOmYtuautSA077yI6aqM5pS277yJ55qE5Luj56CB5Zy65pmv5a6e5L6L44CCCgojIyDmnaXmupAK57qiLee7vy3ph43mnoTmupDoh6ogS2VudCBCZWNr44CKVEREIGJ5IEV4YW1wbGXjgIvvvJtzZWFt77yI5rWL6K+V5o6l57yd77yJ5qaC5b+15rqQ6IeqCk1pY2hhZWwgRmVhdGhlcnPjgIpXb3JraW5nIEVmZmVjdGl2ZWx5IHdpdGggTGVnYWN5IENvZGXjgIvvvIjor6bop4EgLi4vQ1JFRElUUy5tZO+8ieOAggo=
+# Mode: exec-tdd · 测试驱动执行
+
+适用场景：写代码、改代码、修 bug、任何"结果可以被自动判定对错"的任务。
+
+## 循环
+
+红 → 绿 → 重构：
+1. 先写一个会失败的测试，用它定义"什么算完成"；
+2. 用最简单的实现让测试通过；
+3. 在测试保护下重构，测试始终全绿。
+
+## 规则
+
+- **先约定测试接缝**：动笔前先写下"从哪个公开接口观察行为"，
+  与用户确认后再写测试。不测内部实现细节。
+- 好的测试读起来像规格说明（"用户可以用有效购物车结账"），
+  重构后依然成立。
+- 修 bug 先写能复现 bug 的测试，再改到测试通过——不允许"看起来修好了"。
+- 测试本身值得保留：它就是任务的外部验收标准（衔接阶段 4）。
+
+## 与核心引擎的关系
+对应 CORE 阶段 3（执行）+ 阶段 4（验收）的代码场景实例。
+
+## 来源
+红-绿-重构源自 Kent Beck《TDD by Example》；seam（测试接缝）概念源自
+Michael Feathers《Working Effectively with Legacy Code》（详见 ../CREDITS.md）。

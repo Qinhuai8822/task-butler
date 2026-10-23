@@ -1,1 +1,105 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIFRhc2sgQnV0bGVyIGRlcGxveSBzY3JpcHQgKG1hY09TIC8gTGludXgpCiMgVXNhZ2U6CiMgICAuL2RlcGxveS5zaCAgICAgICAgICAgICAgICAgICAgKGludGVyYWN0aXZlIG1lbnUpCiMgICAuL2RlcGxveS5zaCBjbGF1ZGUgW3BhdGhdICAgICAgIChkZWZhdWx0OiAuL0NMQVVERS5tZCkKIyAgIC4vZGVwbG95LnNoIGFnZW50cyBbcGF0aF0gICAgICAgKGRlZmF1bHQ6IC4vQUdFTlRTLm1kKQojICAgLi9kZXBsb3kuc2ggY2hhdGdwdCAgICAgICAgICAgIChjb3BpZXMgcHJvZmlsZSB0byBjbGlwYm9hcmQgdmlhIHBiY29weS94Y2xpcCkKIyAgIC4vZGVwbG95LnNoIGdlbmVyaWMgPGZpbGU+CiMgICAuL2RlcGxveS5zaCB1bmluc3RhbGwgPGZpbGU+CgpzZXQgLWV1byBwaXBlZmFpbAoKcm9vdD0iJChjZCAiJChkaXJuYW1lICIkMCIpLy4uIiAmJiBwd2QpIgpCRUdJTj0iIyAtLS0tIHRhc2stYnV0bGVyIEJFR0lOIC0tLS0iCkVORD0iIyAtLS0tIHRhc2stYnV0bGVyIEVORCAtLS0tIgoKZ2V0X2Jsb2NrKCkgeyAjIGV4dHJhY3QgY29udGVudCBiZXR3ZWVuIHRoZSBMQVNUIFRXTyAiLS0tLS0tLS0iIG1hcmtlciBsaW5lcwogICAgIyAoc2luZ2xlLWJsb2NrIHByb2ZpbGVzOiB0aGUgdHdvIG1hcmtlcnM7IGNoYXRncHQ6IHRoZSBsYXN0L3Bhc3RlIGJsb2NrKQogICAgYXdrICcKICAgIC8tLS0tLS0tLS8geyBuKys7IG1hcmtzW25dPU5SIH0KICAgIHsgbGluZXNbTlJdPSQwIH0KICAgIEVORCB7CiAgICAgICAgaWYgKG4gPCAyKSB7IGV4aXQgMSB9CiAgICAgICAgZmlyc3Q9bWFya3Nbbi0xXTsgbGFzdD1tYXJrc1tuXQogICAgICAgIGZvciAoaT1maXJzdCsxOyBpPD1sYXN0LTE7IGkrKykgcHJpbnQgbGluZXNbaV0KICAgIH0KICAgICcgIiQxIgp9Cgp1cGRhdGVfZmlsZSgpIHsKICAgIGxvY2FsIGZpbGU9IiQxIiBibG9jaz0iJDIiIGV4aXN0aW5nPSIiIG5ldwogICAgbWtkaXIgLXAgIiQoZGlybmFtZSAiJGZpbGUiKSIgMj4vZGV2L251bGwgfHwgdHJ1ZQogICAgW1sgLWYgIiRmaWxlIiBdXSAmJiBleGlzdGluZz0iJChjYXQgIiRmaWxlIikiCiAgICBsb2NhbCBmdWxsPSIkQkVHSU4KJGJsb2NrCiRFTkQiCiAgICBpZiBwcmludGYgJyVzJyAiJGV4aXN0aW5nIiB8IGdyZXAgLXFGICIkQkVHSU4iOyB0aGVuCiAgICAgICAgbmV3PSIkKHByaW50ZiAnJXMnICIkZXhpc3RpbmciIHwgYXdrIC12IGI9IiRCRUdJTiIgLXYgZT0iJEVORCIgLXYgYmxrPSIkZnVsbCIgJwogICAgICAgICAgICAkMCA9PSBiIHsgcHJpbnQgYmxrOyBza2lwPTE7IG5leHQgfQogICAgICAgICAgICAkMCA9PSBlIHsgc2tpcD0wOyBuZXh0IH0KICAgICAgICAgICAgIXNraXAgeyBwcmludCB9CiAgICAgICAgJykiCiAgICAgICAgcHJpbnRmICclc1xuJyAiJG5ldyIgPiAiJGZpbGUiCiAgICAgICAgZWNobyAiVXBkYXRlZCB0YXNrLWJ1dGxlciBibG9jayBpbjogJGZpbGUiCiAgICBlbHNlCiAgICAgICAgaWYgW1sgLW4gIiRleGlzdGluZyIgXV07IHRoZW4KICAgICAgICAgICAgcHJpbnRmICclc1xuXG4lc1xuJyAiJGV4aXN0aW5nIiAiJGZ1bGwiID4gIiRmaWxlIgogICAgICAgIGVsc2UKICAgICAgICAgICAgcHJpbnRmICclc1xuJyAiJGZ1bGwiID4gIiRmaWxlIgogICAgICAgIGZpCiAgICAgICAgZWNobyAiQXBwZW5kZWQgdGFzay1idXRsZXIgYmxvY2sgdG86ICRmaWxlIgogICAgZmkKfQoKcmVtb3ZlX2Jsb2NrKCkgewogICAgbG9jYWwgZmlsZT0iJDEiCiAgICBbWyAtZiAiJGZpbGUiIF1dIHx8IHsgZWNobyAiRmlsZSBub3QgZm91bmQ6ICRmaWxlIjsgcmV0dXJuOyB9CiAgICBhd2sgLXYgYj0iJEJFR0lOIiAtdiBlPSIkRU5EIiAnCiAgICAgICAgJDAgPT0gYiB7IHNraXA9MTsgbmV4dCB9CiAgICAgICAgJDAgPT0gZSB7IHNraXA9MDsgbmV4dCB9CiAgICAgICAgIXNraXAgeyBwcmludCB9CiAgICAnICIkZmlsZSIgPiAiJGZpbGUudG1wIiAmJiBtdiAiJGZpbGUudG1wIiAiJGZpbGUiCiAgICBlY2hvICJSZW1vdmVkIHRhc2stYnV0bGVyIGJsb2NrIGZyb206ICRmaWxlIgp9Cgp0YXJnZXQ9IiR7MTotfSIKW1sgLXogIiR0YXJnZXQiIF1dICYmIHsKICAgIGVjaG8gIlRhc2sgQnV0bGVyIGRlcGxveSAtIGNob29zZSBhIHRhcmdldDoiCiAgICBlY2hvICIgIDEpIGNsYXVkZSAgICAtIGFwcGVuZCB0byBDTEFVREUubWQiCiAgICBlY2hvICIgIDIpIGFnZW50cyAgICAtIGFwcGVuZCB0byBBR0VOVFMubWQiCiAgICBlY2hvICIgIDMpIGNoYXRncHQgICAtIGNvcHkgdG8gY2xpcGJvYXJkIgogICAgZWNobyAiICA0KSBnZW5lcmljICAgLSBhcHBlbmQgdG8gYSBmaWxlIHlvdSBzcGVjaWZ5IgogICAgZWNobyAiICA1KSB1bmluc3RhbGwgLSByZW1vdmUgYmxvY2sgZnJvbSBhIGZpbGUiCiAgICByZWFkIC1yIC1wICJTZWxlY3QgMS01OiAiIGNob2ljZQogICAgY2FzZSAiJGNob2ljZSIgaW4KICAgICAgICAxKSB0YXJnZXQ9Y2xhdWRlIDs7IDIpIHRhcmdldD1hZ2VudHMgOzsgMykgdGFyZ2V0PWNoYXRncHQgOzsKICAgICAgICA0KSB0YXJnZXQ9Z2VuZXJpYyA7OyA1KSB0YXJnZXQ9dW5pbnN0YWxsIDs7ICopIGVjaG8gIkludmFsaWQgY2hvaWNlLiI7IGV4aXQgMSA7OwogICAgZXNhYwp9CnBhdGg9IiR7MjotfSIKCmNhc2UgIiR0YXJnZXQiIGluCiAgICBjbGF1ZGUpCiAgICAgICAgW1sgLXogIiRwYXRoIiBdXSAmJiBwYXRoPSIuL0NMQVVERS5tZCIKICAgICAgICB1cGRhdGVfZmlsZSAiJHBhdGgiICIkKGdldF9ibG9jayAiJHJvb3QvcHJvZmlsZXMvY2xhdWRlLm1kIikiIDs7CiAgICBhZ2VudHMpCiAgICAgICAgW1sgLXogIiRwYXRoIiBdXSAmJiBwYXRoPSIuL0FHRU5UUy5tZCIKICAgICAgICB1cGRhdGVfZmlsZSAiJHBhdGgiICIkKGdldF9ibG9jayAiJHJvb3QvcHJvZmlsZXMvY2xpLWFnZW50cy5tZCIpIiA7OwogICAgY2hhdGdwdCkKICAgICAgICBibG9jaz0iJChnZXRfYmxvY2sgIiRyb290L3Byb2ZpbGVzL2NoYXRncHQubWQiKSIKICAgICAgICBpZiBjb21tYW5kIC12IHBiY29weSA+L2Rldi9udWxsIDI+JjE7IHRoZW4gcHJpbnRmICclcycgIiRibG9jayIgfCBwYmNvcHkKICAgICAgICBlbGlmIGNvbW1hbmQgLXYgeGNsaXAgPi9kZXYvbnVsbCAyPiYxOyB0aGVuIHByaW50ZiAnJXMnICIkYmxvY2siIHwgeGNsaXAgLXNlbGVjdGlvbiBjbGlwYm9hcmQKICAgICAgICBlbGlmIGNvbW1hbmQgLXYgeHNlbCA+L2Rldi9udWxsIDI+JjE7IHRoZW4gcHJpbnRmICclcycgIiRibG9jayIgfCB4c2VsIC0tY2xpcGJvYXJkCiAgICAgICAgZWxzZSBlY2hvICIoTm8gY2xpcGJvYXJkIHRvb2wgZm91bmQgLSBwcmludGluZyBpbnN0ZWFkOikiOyBwcmludGYgJyVzXG4nICIkYmxvY2siOyBmaQogICAgICAgIGVjaG8gIlBhc3RlIGludG8gQ2hhdEdQVCBDdXN0b20gSW5zdHJ1Y3Rpb25zICdIb3cgd291bGQgeW91IGxpa2UgQ2hhdEdQVCB0byByZXNwb25kPyciCiAgICAgICAgOzsKICAgIGdlbmVyaWMpCiAgICAgICAgW1sgLXogIiRwYXRoIiBdXSAmJiByZWFkIC1yIC1wICJUYXJnZXQgZmlsZSBwYXRoOiAiIHBhdGgKICAgICAgICB1cGRhdGVfZmlsZSAiJHBhdGgiICIkKGdldF9ibG9jayAiJHJvb3QvcHJvZmlsZXMvZ2VuZXJpYy5tZCIpIiA7OwogICAgdW5pbnN0YWxsKQogICAgICAgIFtbIC16ICIkcGF0aCIgXV0gJiYgcmVhZCAtciAtcCAiRmlsZSBwYXRoIHRvIHJlbW92ZSBibG9jayBmcm9tOiAiIHBhdGgKICAgICAgICByZW1vdmVfYmxvY2sgIiRwYXRoIiA7OwogICAgKikgZWNobyAiVW5rbm93biB0YXJnZXQ6ICR0YXJnZXQgKHVzZSBjbGF1ZGV8YWdlbnRzfGNoYXRncHR8Z2VuZXJpY3x1bmluc3RhbGwpIjsgZXhpdCAxIDs7CmVzYWMKZWNobyAiRG9uZS4iCg==
+#!/usr/bin/env bash
+# Task Butler deploy script (macOS / Linux)
+# Usage:
+#   ./deploy.sh                    (interactive menu)
+#   ./deploy.sh claude [path]       (default: ./CLAUDE.md)
+#   ./deploy.sh agents [path]       (default: ./AGENTS.md)
+#   ./deploy.sh chatgpt            (copies profile to clipboard via pbcopy/xclip)
+#   ./deploy.sh generic <file>
+#   ./deploy.sh uninstall <file>
+
+set -euo pipefail
+
+root="$(cd "$(dirname "$0")/.." && pwd)"
+BEGIN="# ---- task-butler BEGIN ----"
+END="# ---- task-butler END ----"
+
+get_block() { # extract content between the LAST TWO "--------" marker lines
+    # (single-block profiles: the two markers; chatgpt: the last/paste block)
+    awk '
+    /--------/ { n++; marks[n]=NR }
+    { lines[NR]=$0 }
+    END {
+        if (n < 2) { exit 1 }
+        first=marks[n-1]; last=marks[n]
+        for (i=first+1; i<=last-1; i++) print lines[i]
+    }
+    ' "$1"
+}
+
+update_file() {
+    local file="$1" block="$2" existing="" new
+    mkdir -p "$(dirname "$file")" 2>/dev/null || true
+    [[ -f "$file" ]] && existing="$(cat "$file")"
+    local full="$BEGIN
+$block
+$END"
+    if printf '%s' "$existing" | grep -qF "$BEGIN"; then
+        new="$(printf '%s' "$existing" | awk -v b="$BEGIN" -v e="$END" -v blk="$full" '
+            $0 == b { print blk; skip=1; next }
+            $0 == e { skip=0; next }
+            !skip { print }
+        ')"
+        printf '%s\n' "$new" > "$file"
+        echo "Updated task-butler block in: $file"
+    else
+        if [[ -n "$existing" ]]; then
+            printf '%s\n\n%s\n' "$existing" "$full" > "$file"
+        else
+            printf '%s\n' "$full" > "$file"
+        fi
+        echo "Appended task-butler block to: $file"
+    fi
+}
+
+remove_block() {
+    local file="$1"
+    [[ -f "$file" ]] || { echo "File not found: $file"; return; }
+    awk -v b="$BEGIN" -v e="$END" '
+        $0 == b { skip=1; next }
+        $0 == e { skip=0; next }
+        !skip { print }
+    ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+    echo "Removed task-butler block from: $file"
+}
+
+target="${1:-}"
+[[ -z "$target" ]] && {
+    echo "Task Butler deploy - choose a target:"
+    echo "  1) claude    - append to CLAUDE.md"
+    echo "  2) agents    - append to AGENTS.md"
+    echo "  3) chatgpt   - copy to clipboard"
+    echo "  4) generic   - append to a file you specify"
+    echo "  5) uninstall - remove block from a file"
+    read -r -p "Select 1-5: " choice
+    case "$choice" in
+        1) target=claude ;; 2) target=agents ;; 3) target=chatgpt ;;
+        4) target=generic ;; 5) target=uninstall ;; *) echo "Invalid choice."; exit 1 ;;
+    esac
+}
+path="${2:-}"
+
+case "$target" in
+    claude)
+        [[ -z "$path" ]] && path="./CLAUDE.md"
+        update_file "$path" "$(get_block "$root/profiles/claude.md")" ;;
+    agents)
+        [[ -z "$path" ]] && path="./AGENTS.md"
+        update_file "$path" "$(get_block "$root/profiles/cli-agents.md")" ;;
+    chatgpt)
+        block="$(get_block "$root/profiles/chatgpt.md")"
+        if command -v pbcopy >/dev/null 2>&1; then printf '%s' "$block" | pbcopy
+        elif command -v xclip >/dev/null 2>&1; then printf '%s' "$block" | xclip -selection clipboard
+        elif command -v xsel >/dev/null 2>&1; then printf '%s' "$block" | xsel --clipboard
+        else echo "(No clipboard tool found - printing instead:)"; printf '%s\n' "$block"; fi
+        echo "Paste into ChatGPT Custom Instructions 'How would you like ChatGPT to respond?'"
+        ;;
+    generic)
+        [[ -z "$path" ]] && read -r -p "Target file path: " path
+        update_file "$path" "$(get_block "$root/profiles/generic.md")" ;;
+    uninstall)
+        [[ -z "$path" ]] && read -r -p "File path to remove block from: " path
+        remove_block "$path" ;;
+    *) echo "Unknown target: $target (use claude|agents|chatgpt|generic|uninstall)"; exit 1 ;;
+esac
+echo "Done."

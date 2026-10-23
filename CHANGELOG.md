@@ -1,1 +1,33 @@
-IyBDaGFuZ2Vsb2cKCkFsbCBub3RhYmxlIGNoYW5nZXMgdG8gdGhpcyBwcm9qZWN0IGFyZSBkb2N1bWVudGVkIGluIHRoaXMgZmlsZS4KRm9ybWF0OiBrZWVwIGEgY2hhbmdlbG9nIChodHRwczovL2tlZXBhY2hhbmdlbG9nLmNvbSksIHNlbXZlciB2ZXJzaW9uaW5nLgoKIyMgWzEuMS4wXSAtIDIwMjYtMTAtMjMKCiMjIyBBZGRlZAotIENSRURJVFMubWQ6IGZ1bGwgbWV0aG9kb2xvZ3kgYXR0cmlidXRpb24g4oCUIGV2ZXJ5IHN0YWdlIGFuZCBtb2RlIHRyYWNlZAogIHRvIGl0cyBzb3VyY2UgYXJ0aWNsZS9hdXRob3IgKEZlbGl4IFJpZXNlYmVyZywgQW50aHJvcGljL09wZW5BSSBvZmZpY2lhbAogIGd1aWRlcywgU2ltb24gV2lsbGlzb24sIEV0aGFuIE1vbGxpY2ssIE1pY2hhZWwgRmVhdGhlcnMsIE1pY2hhZWwgTnlnYXJkLAogIExvY2tlICYgTGF0aGFtIGdvYWwtc2V0dGluZyByZXNlYXJjaCwgQ01VIExMTSBiZXN0IHByYWN0aWNlcykuCi0gUGVyLW1vZGUgIlNvdXJjZXMiIHNlY3Rpb25zIGluIGFsbCA2IG1vZGVzOyBSRUFETUUgY3JlZGl0cyBleHBhbmRlZAogIChiaWxpbmd1YWwpIHdpdGggZXhwbGljaXQgbm8tYWZmaWxpYXRpb24gZGlzY2xhaW1lci4KCiMjIFsxLjAuMF0gLSAyMDI2LTEwLTIzCgojIyMgQWRkZWQKLSBDT1JFLm1kOiBzaXgtc3RhZ2UgdGFzayBlbmdpbmUgKENsYXJpZnkgLT4gR3JpbGwgLT4gUGxhbiAtPiBFeGVjdXRlIC0+CiAgVmVyaWZ5IGV4dGVybmFsbHkgLT4gQXJjaGl2ZSksIGluZHVzdHJ5LWFnbm9zdGljLCB0b29sLWFnbm9zdGljLgotIG1vZGVzLzogNiBvcHRpb25hbCB0YXNrLW1vZGUgcGx1Z2lucyDigJQgcGxhbi1ncmlsbCAoZGVzaWduLXRyZWUgZ3JpbGxpbmcpLAogIGV4ZWMtdGRkICh0ZXN0LWRyaXZlbiBleGVjdXRpb24pLCBleGVjLWhlYWwgKHNlbGYtaGVhbGluZyBsb29wKSwKICB2ZXJpZnktb3V0c2lkZSAoZXh0ZXJuYWwgdmVyaWZpY2F0aW9uKSwgd3JpdGUtZWRpdCAoQUkgYXMgZWRpdG9yKSwKICBhcmNoaXZlICh0aHJlZS1sYXllciBhcmNoaXZpbmcpLgotIHByb2ZpbGVzLzogNCBwbGF0Zm9ybSBhZGFwdGVycyDigJQgZ2VuZXJpYyAoYW55IEFJKSwgY2xhdWRlIChDTEFVREUubWQpLAogIGNoYXRncHQgKEN1c3RvbSBJbnN0cnVjdGlvbnMpLCBjbGktYWdlbnRzIChBR0VOVFMubWQpLgotIGRlcGxveS86IG9uZS1jb21tYW5kIGlkZW1wb3RlbnQgaW5zdGFsbGVycyBmb3IgV2luZG93cyAoUG93ZXJTaGVsbCkgYW5kCiAgbWFjT1MvTGludXggKGJhc2gpLCB3aXRoIHVuaW5zdGFsbCBzdXBwb3J0LgotIE1ldGhvZG9sb2d5IGRpc3RpbGxlZCBmcm9tIHB1YmxpYyBiZXN0IHByYWN0aWNlczogRmVsaXggUmllc2ViZXJnJ3MKICAiSG93IHRvIGJlIG1vcmUgYW1iaXRpb3VzIiBlc3NheSwgQW50aHJvcGljL09wZW5BSSBvZmZpY2lhbCBwcm9tcHRpbmcKICBndWlkZXMsIFNpbW9uIFdpbGxpc29uJ3MgZWRpdG9yLW5vdC1hdXRob3Igd3JpdGluZyB3b3JrZmxvdy4KLSBEZWxpYmVyYXRlbHkgZXhjbHVkZWQ6IGFueSBpbmR1c3RyeS1zcGVjaWZpYyBrbm93bGVkZ2UsIGFueSBwcml2YXRlLXNraWxsCiAgZGVwZW5kZW5jeSwgYW55IGFjY291bnQgYmluZGluZywgYW55IHBlcnNvbmFsIGNvbnRleHQuCg==
+# Changelog
+
+All notable changes to this project are documented in this file.
+Format: keep a changelog (https://keepachangelog.com), semver versioning.
+
+## [1.1.0] - 2026-10-23
+
+### Added
+- CREDITS.md: full methodology attribution — every stage and mode traced
+  to its source article/author (Felix Rieseberg, Anthropic/OpenAI official
+  guides, Simon Willison, Ethan Mollick, Michael Feathers, Michael Nygard,
+  Locke & Latham goal-setting research, CMU LLM best practices).
+- Per-mode "Sources" sections in all 6 modes; README credits expanded
+  (bilingual) with explicit no-affiliation disclaimer.
+
+## [1.0.0] - 2026-10-23
+
+### Added
+- CORE.md: six-stage task engine (Clarify -> Grill -> Plan -> Execute ->
+  Verify externally -> Archive), industry-agnostic, tool-agnostic.
+- modes/: 6 optional task-mode plugins — plan-grill (design-tree grilling),
+  exec-tdd (test-driven execution), exec-heal (self-healing loop),
+  verify-outside (external verification), write-edit (AI as editor),
+  archive (three-layer archiving).
+- profiles/: 4 platform adapters — generic (any AI), claude (CLAUDE.md),
+  chatgpt (Custom Instructions), cli-agents (AGENTS.md).
+- deploy/: one-command idempotent installers for Windows (PowerShell) and
+  macOS/Linux (bash), with uninstall support.
+- Methodology distilled from public best practices: Felix Rieseberg's
+  "How to be more ambitious" essay, Anthropic/OpenAI official prompting
+  guides, Simon Willison's editor-not-author writing workflow.
+- Deliberately excluded: any industry-specific knowledge, any private-skill
+  dependency, any account binding, any personal context.

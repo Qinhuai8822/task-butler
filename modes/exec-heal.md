@@ -1,1 +1,27 @@
-IyBNb2RlOiBleGVjLWhlYWwgwrcg6Ieq5oSI5b6q546vCgrpgILnlKjlnLrmma/vvJrplb/ml7bpl7Tov5DooYzjgIHmmJPlj5fnjq/looPlubLmibDnmoTku7vliqHigJTigJTniKzomavjgIHmibnlpITnkIbjgIEK5a6a5pe26Ieq5Yqo5YyW44CB5aSn5om56YeP5paH5Lu25pON5L2c44CB5Lu75L2VIuS4remAlOS8muWksei0pSLnmoTmtYHnqIvjgIIKCiMjIOW+queOrwoK5aSx6LSlIOKGkiDor4rmlq0g4oaSIOS/ruWkjSDihpIg6YeN6aqM5pS277yaCjEuIOWksei0peS4jemHjeWktOWGjeadpeOAguWFiOiviuaWre+8muaYr+S7u+WKoeacrOi6q+mUmeS6hu+8jOi/mOaYr+eOr+Wig+WPmOS6hu+8nwoyLiDnjq/looPnsbvlpLHotKXvvIjotoXml7bjgIHpmZDmtYHjgIHmoLzlvI/lj5jljJbjgIHnvZHnu5zkuK3mlq3vvInihpIg6YeH55So6YCA6YG/6YeN6K+V44CBCiAgIOaNoui3r+W+hOOAgemZjee6p+aWueahiO+8jOiHquWKqOaBouWkje+8mwozLiDku7vliqHmnKzouqvplJnkuoYg4oaSIOWBnOS4i+adpeaKpeWRiu+8jOivtOaYjuagueWboO+8jOe7meWHuuS/ruato+mAiemhue+8mwo0LiDmr4/mrKHkv67lpI3lkI7lv4Xpobvph43mlrDov4flpJbpg6jpqozmlLbvvIzkuI3lhYHorrgi5L+u6L+H5LqGIuWwseW9kyLkv67lpb3kuoYi44CCCgojIyDop4TliJkKCi0g6YeN6K+V6KaB5pyJ6YCA6YG/77yI5oyH5pWw6YCA6YG/77yJ77yM5LiN6KaB56Gs5Yi377ybCi0g6L+e57ut5aSx6LSlIE4g5qyh77yI6buY6K6kIDPvvInihpIg54aU5pat77yM5YGc5LiL5p2l5ZCR55So5oi35oql5ZGK77yM6ZmE5LiK5bey5bCd6K+V55qE5omL5q6177ybCi0g5oqK5q+P5qyh5aSx6LSl55qE5Y6f5Zug6K6w5LiL5p2l77ya5ZCM5qC355qE5Z2R5LiN6Lip56ys5LqM5qyh77ybCi0g5q+P5Liq5Y+v6Ieq5oSI54K55YaZ5piO5oGi5aSN5omL5q6177yM55So5oi35Y+v6ZqP5pe25Lq65bel5o6l566h44CCCgojIyDkuI7moLjlv4PlvJXmk47nmoTlhbPns7sK5a+55bqUIENPUkUg6Zi25q61IDPvvIjmiafooYzvvInnmoTlrrnplJnmianlsZXvvJvkv67lpI3lkI7lm57lvZLpmLbmrrUgNO+8iOmqjOaUtu+8ieOAggoKIyMg5p2l5rqQCueGlOaWreS4jumAgOmBv+mHjeivlea6kOiHquWIhuW4g+W8j+ezu+e7n+WuuemUmemAmueUqOWunui3tQrvvIhNaWNyb3NvZnQgQXp1cmUg5p625p6E5oyH5Y2XIENpcmN1aXQgQnJlYWtlciDmqKHlvI/vvIzor6bop4EgLi4vQ1JFRElUUy5tZO+8ieOAggo=
+# Mode: exec-heal · 自愈循环
+
+适用场景：长时间运行、易受环境干扰的任务——爬虫、批处理、
+定时自动化、大批量文件操作、任何"中途会失败"的流程。
+
+## 循环
+
+失败 → 诊断 → 修复 → 重验收：
+1. 失败不重头再来。先诊断：是任务本身错了，还是环境变了？
+2. 环境类失败（超时、限流、格式变化、网络中断）→ 采用退避重试、
+   换路径、降级方案，自动恢复；
+3. 任务本身错了 → 停下来报告，说明根因，给出修正选项；
+4. 每次修复后必须重新过外部验收，不允许"修过了"就当"修好了"。
+
+## 规则
+
+- 重试要有退避（指数退避），不要硬刷；
+- 连续失败 N 次（默认 3）→ 熔断，停下来向用户报告，附上已尝试的手段；
+- 把每次失败的原因记下来：同样的坑不踩第二次；
+- 每个可自愈点写明恢复手段，用户可随时人工接管。
+
+## 与核心引擎的关系
+对应 CORE 阶段 3（执行）的容错扩展；修复后回归阶段 4（验收）。
+
+## 来源
+熔断与退避重试源自分布式系统容错通用实践
+（Microsoft Azure 架构指南 Circuit Breaker 模式，详见 ../CREDITS.md）。
